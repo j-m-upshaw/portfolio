@@ -1,0 +1,28 @@
+[
+    {
+        "role": "Team Member",
+        "organization": "University of Alabama",
+        "startDate": "9/2022",
+        "endDate": "12/2024",
+        "experiences": ["Collaborated with my team to discuss team design, app development, and user friendliness of the app for a major company’s project.", "Helped maintain documentation for group progress"],
+        "imageSrc": "history/university-of-alabama-icon.png"
+    },
+
+    {
+        "role": "UA EcoCar Propulsion Controls and Modeling Team Member",
+        "organization": "UA EcoCar Club",
+        "startDate": "9/2023",
+        "endDate": "12/2024",
+        "experiences": ["Learned MATLAB to be able assist the team", "Worked under a Sprint Schedule to accomplish goals"],
+        "imageSrc": "history/university-of-alabama-icon.png"
+    },
+
+    {
+        "role": "Team Member",
+        "organization": "University of Alabama",
+        "startDate": "9/2022",
+        "endDate": "12/2024",
+        "experiences": ["Stored members of an organization in a database using Java", "Created a diagram to denote the manager process", "Presented it in a public setting"],
+        "imageSrc": "history/university-of-alabama-icon.png"
+    }
+]
