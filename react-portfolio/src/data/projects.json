@@ -1,10 +1,19 @@
 [
     {
-        "title": "Project A",
-        "imageSrc": "",
-        "description": "",
-        "skills": "",
-        "demo": "",
-        "source": ""
+        "title": "Portfolio Website",
+        "imageSrc": "projects/Website_Icon_Colored.png",
+        "description": "Used to display other projects while also learning how to use React and JavaScript.",
+        "skills": ["React", "HTML", "CSS", "JavaScript"],
+        "demo": "Currently On!",
+        "source": "https://github.com/j-m-upshaw/portfolio"
+    },
+
+    {
+        "title": "Finance App",
+        "imageSrc": "projects/Coming_Soon_Image_Colored.png",
+        "description": "Upcoming project to learn how to create a GUI in Python.",
+        "skills": ["N/A"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
     }
 ]
