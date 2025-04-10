@@ -1,1 +1,23 @@
 @import "../../vars.css";
+
+/* text-sm text-center mt-8 text-gray-500 */
+.container {
+  font-size: 14px;
+  text-align: center;
+  color: var(--color-text);
+  margin-top: 2rem;
+}
+
+/* flex justify-center gap-4 flex-wrap mt-2 */
+.credits {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+  font-size: x-large;
+}
+
+.credit {
+  list-style-type: none;
+}
