@@ -48,3 +48,10 @@
 .link a:hover {
   color: var(--color-dark);
 }
+
+.text img {
+  border-radius: 50%;
+  align-self: auto;
+  width: 50%;
+  height: 61%;
+}

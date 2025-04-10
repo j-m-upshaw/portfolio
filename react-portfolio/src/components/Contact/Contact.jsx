@@ -10,6 +10,10 @@ export const Contact = () => {
         <div className={styles.text}>
           <h2>Contact</h2>
           <p>Feel free to reach out!</p>
+          <img
+            src={getImageUrl("contact/myProf_pic.png")}
+            alt="Picture of Me"
+          />
         </div>
         <ul className={styles.links}>
           <li className={styles.link}>
