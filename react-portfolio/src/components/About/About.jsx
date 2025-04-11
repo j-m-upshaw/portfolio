@@ -23,10 +23,7 @@ export const About = () => {
             />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
-              <p>
-                I'm a frontend developer with experience in HTML, CSS, and
-                REACT.
-              </p>
+              <p>Experienced in HTML, CSS, and REACT.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
@@ -38,7 +35,7 @@ export const About = () => {
             />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
-              <p>I have experience in using C, C++, and Python.</p>
+              <p>Profecient in using C, C++, and Python.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>

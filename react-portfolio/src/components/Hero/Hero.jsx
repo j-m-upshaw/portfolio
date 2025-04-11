@@ -9,8 +9,9 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}> Hi, I'm Jaland!</h1>
         <p className={styles.description}>
-          I'm a full-stack developer who is a recent graduate of the University
-          of Alabama. Reach out if you'd like to learn more!
+          I’m a full-stack developer and recent graduate of the University of
+          Alabama with a strong foundation in modern web technologies. Feel free
+          to reach out to discuss potential opportunities or collaborations.
         </p>
         <a href="mailto:jalandmupshaw@gmail.com" className={styles.contactBtn}>
           Contact Me
