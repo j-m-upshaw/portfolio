@@ -23,7 +23,10 @@ export const About = () => {
             />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
-              <p>Experienced in HTML, CSS, and REACT.</p>
+              <p>
+                Experienced in front-end development using HTML, CSS, and React
+                to build responsive and dynamic user interfaces.
+              </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
@@ -35,7 +38,11 @@ export const About = () => {
             />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
-              <p>Profecient in using C, C++, and Python.</p>
+              <p>
+                Proficient in C, C++, and Python, with a strong emphasis on
+                systems-level programming and object-oriented design using C and
+                C++.
+              </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
@@ -45,7 +52,11 @@ export const About = () => {
             />
             <div className={styles.aboutItemText}>
               <h3>Team Player</h3>
-              <p>I have a lot experience in working in a team setting.</p>
+              <p>
+                I have extensive experience working in team settings, including
+                collaborating on the development of a mobile app for a company
+                as part of a larger project.
+              </p>
             </div>
           </li>
         </ul>

@@ -11,7 +11,8 @@ export const Contact = () => {
           <h2>Contact</h2>
           <p>Feel free to reach out!</p>
           <img
-            src={getImageUrl("contact/myProf_pic.png")}
+            //hero/heroImage.gif
+            src={getImageUrl("hero/heroImage.gif")}
             alt="Picture of Me"
           />
         </div>
