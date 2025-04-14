@@ -43,6 +43,7 @@
   text-decoration: none;
   font-size: 30px;
   font-weight: 400;
+  word-break: break-word;
 }
 
 .link a:hover {
@@ -53,5 +54,128 @@
   border-radius: 50%;
   align-self: auto;
   width: 50%;
-  height: 61%;
+  height: 50%;
+}
+
+/* for tablet devices */
+@media screen and (max-width: 830px) {
+  .container {
+    color: var(--color-text);
+    margin-top: 120px;
+    background-color: var(--color-secondary);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100vw;
+    padding: 58px 10%;
+    gap: 10px;
+  }
+
+  .text h2 {
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 4px;
+  }
+
+  .text p {
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 2px;
+  }
+
+  .links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    list-style: none;
+    gap: 26px;
+  }
+
+  .link {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+  }
+
+  .link a {
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 400;
+    word-break: break-word;
+  }
+
+  .link a:hover {
+    color: var(--color-dark);
+  }
+
+  .text img {
+    border-radius: 50%;
+    align-self: auto;
+    width: 50%;
+    height: 61%;
+  }
+}
+
+/* for mobile devices */
+/* Notes
+- column displays better on mobile devices */
+@media screen and (max-width: 430px) {
+  .container {
+    color: var(--color-text);
+    margin-top: 60px;
+    background-color: var(--color-secondary);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 58px 10%;
+    gap: 10px;
+    align-items: center;
+  }
+
+  .text h2 {
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 4px;
+  }
+
+  .text p {
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 2px;
+  }
+
+  .links {
+    display: grid;
+    flex-direction: column;
+    align-items: flex-start;
+    list-style: none;
+    gap: 26px;
+  }
+
+  .link {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+  }
+
+  .link a {
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 400;
+    word-break: break-word;
+  }
+
+  .link a:hover {
+    color: var(--color-dark);
+  }
+
+  .text img {
+    border-radius: 45%;
+    align-self: auto;
+    width: 45%;
+    height: 50%;
+  }
 }

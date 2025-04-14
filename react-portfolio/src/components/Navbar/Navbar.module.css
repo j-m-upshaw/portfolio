@@ -33,6 +33,10 @@
   text-decoration: none;
 }
 
+.menuItems a:hover {
+  color: var(--color-primary);
+}
+
 .menuBtn {
   display: none;
 }
