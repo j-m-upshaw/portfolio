@@ -4,7 +4,7 @@
         "organization": "University of Alabama",
         "startDate": "9/2022",
         "endDate": "12/2024",
-        "experiences": ["Collaborated with my team to discuss team design, app development, and user friendliness of the app for a major company’s project.", "Helped maintain documentation for group progress"],
+        "experiences": ["Collaborated with my team to discuss team design, app development, and user friendliness of the app for a major company’s project.", "Created multiple interpreters with a partner in C# and and Go coding languages"],
         "imageSrc": "history/university-of-alabama-icon.png"
     },
 
@@ -13,7 +13,7 @@
         "organization": "UA EcoCar Club",
         "startDate": "9/2023",
         "endDate": "12/2024",
-        "experiences": ["Learned MATLAB to be able assist the team", "Worked under a Sprint Schedule to accomplish goals"],
+        "experiences": ["Utilized MATLAB to be able assist the team in competition tasks", "Adhered to a Sprint Schedule to accomplish goals"],
         "imageSrc": "history/university-of-alabama-icon.png"
     },
 
@@ -22,7 +22,7 @@
         "organization": "University of Alabama",
         "startDate": "9/2022",
         "endDate": "12/2024",
-        "experiences": ["Stored members of an organization in a database using Java", "Created a diagram to denote the manager process", "Presented it in a public setting"],
+        "experiences": ["Stored members of an organization in a database using Java", "Created a Unified Modeling Language diagram to denote the manager process", "Presented our project to a company to show progress and gain feedback"],
         "imageSrc": "history/university-of-alabama-icon.png"
     }
 ]

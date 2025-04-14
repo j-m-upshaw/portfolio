@@ -6,19 +6,19 @@ import credits from "../../data/credits.json";
 const ImageCredits = () => {
   return (
     <div className={styles.container}>
-      <h2>Images used with permission from:</h2>
+      <h2>Images used with permission:</h2>
       <ul className={styles.credits}>
         {credits.map((credit, id) => (
           <li className={styles.credit} key={id}>
+            Image used:&nbsp;
             <a
               href={credit.link}
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline"
             >
-              {credit.name}
+              {credit.image}
             </a>
-            <p>by: {credit.user}</p>
           </li>
         ))}
       </ul>

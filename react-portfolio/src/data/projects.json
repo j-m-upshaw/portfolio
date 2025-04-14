@@ -2,9 +2,9 @@
     {
         "title": "Portfolio Website",
         "imageSrc": "projects/Portfolio_Webpage_Image_with_me.png",
-        "description": "A place for me to display my other skills in a variety of different projects. It was also a good time to learn how to use React and JavaScript.",
+        "description": "A place for me to display my other skills in a variety of different projects.",
         "skills": ["React", "HTML", "CSS", "JavaScript"],
-        "demo": "Currently On!",
+        "demo": "https://jmupshawportfolio.netlify.app/",
         "source": "https://github.com/j-m-upshaw/portfolio"
     }
 ]
