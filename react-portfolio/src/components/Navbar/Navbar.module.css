@@ -17,6 +17,10 @@
   color: var(--color-text);
 }
 
+.title:hover {
+  color: var(--color-primary);
+}
+
 .menu {
   display: flex;
 }

@@ -6,6 +6,7 @@ import Experience from "./components/Experience/Experience";
 import Projects from "./components/Projects/Projects";
 import Contact from "./components/Contact/Contact";
 import ImageCredits from "./components/ImageCredits/ImageCredits";
+import ImageScroll from "./components/ImageScroll/ImageScroll";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Projects />
       <Contact />
       <ImageCredits />
+      <ImageScroll />
     </div>
   );
 }
