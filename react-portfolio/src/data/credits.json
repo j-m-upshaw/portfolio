@@ -1,37 +1,43 @@
 [
     { "name": "Icons8",
-      "user": "N/A",
-      "image": "Select Cursor", 
+      "user": "none",
+      "imageName": "Select Cursor",
+      "imageSrc": "/assets/about/cursorIcon-48px.png", 
       "link": "https://icons8.com/icon/rKqQiYPTkVLU/select-cursor" 
     },
 
     { "name": "Icons8",
-      "user": "N/A",
-      "image": "C Programming", 
+      "user": "none",
+      "imageName": "C Programming Icon",
+      "imageSrc": "/assets/skills/C_icon.png", 
       "link": "https://icons8.com/icon/40670/c-programming" 
     },
 
     { "name": "Icons8",
-      "user": "N/A",
-      "image": "HTML", 
+      "user": "none",
+      "imageName": "HTML Icon",
+      "imageSrc": "/assets/skills/HTML_icon2.png", 
       "link": "https://icons8.com/icon/20909/html-5" 
     },
 
     { "name": "Icons8",
-      "user": "N/A",
-      "image": "CSS", 
+      "user": "none",
+      "imageName": "CSS Icon",
+      "imageSrc": "/assets/skills/CSS_icon2.png", 
       "link": "https://icons8.com/icon/21278/css3" 
     },
 
     { "name": "Icons8",
-      "user": "N/A",
-      "image": "React", 
+      "user": "none",
+      "imageName": "React Icon",
+      "imageSrc": "/assets/skills/React_icon2.png", 
       "link": "https://icons8.com/icon/NfbyHexzVEDk/react" 
     },
 
     { "name": "Freepick",
       "user": "fullvector",
-      "image": "Server Rack", 
+      "imageName": "Server Rack Picture",
+      "imageSrc": "/assets/about/serverIcon2.png", 
       "link": "https://www.freepik.com/free-vector/server-rack-isolated-isometric-vector-icon-equipment-cloud-computing-information-storage_12089296.htm#fromView=search&page=1&position=5&uuid=f773fb25-0238-454d-8630-8893538b00d4&query=server+icon" 
     }
 ]
