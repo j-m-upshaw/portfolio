@@ -8,7 +8,9 @@
   padding: 12px 14px;
   border-radius: 50%;
   cursor: pointer;
-  font-size: 35px;
+  width: 4.5vw;
+  height: 4.5vw;
+  font-size: 2vw;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   z-index: 1000;
   transition: opacity 0.3s ease;
