@@ -13,9 +13,9 @@ const Hero = () => {
           Alabama with a strong foundation in modern web technologies. Feel free
           to reach out to discuss potential opportunities or collaborations.
         </p>
-        <a href="mailto:jalandmupshaw@gmail.com" className={styles.contactBtn}>
+        {/* <a href="mailto:jalandmupshaw@gmail.com" className={styles.contactBtn}>
           Contact Me
-        </a>
+        </a> */}
       </div>
       <img
         //contact/myProf_pic.png

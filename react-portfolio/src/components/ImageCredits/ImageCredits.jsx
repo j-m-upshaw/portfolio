@@ -20,28 +20,30 @@ const ImageCredits = () => {
   const current = credits[curIndex];
 
   return (
-    <div className={styles.container}>
-      <h2>Images used with permission:</h2>
-      <div className={styles.slide}>
-        <img
-          key={curIndex}
-          src={current.imageSrc}
-          alt={current.imageName}
-          className={styles.image}
-        />
-        <p className={styles.caption}>
-          <strong>{current.imageName}</strong> by{" "}
-          <a
-            href={current.link}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:underline"
-          >
-            {current.name}
-          </a>
-        </p>
+    <section id="credits">
+      <div className={styles.container}>
+        <h2>Images used with permission:</h2>
+        <div className={styles.slide}>
+          <img
+            key={curIndex}
+            src={current.imageSrc}
+            alt={current.imageName}
+            className={styles.image}
+          />
+          <p className={styles.caption}>
+            <strong>{current.imageName}</strong> by{" "}
+            <a
+              href={current.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:underline"
+            >
+              {current.name}
+            </a>
+          </p>
+        </div>
       </div>
-    </div>
+    </section>
   );
 };
 
